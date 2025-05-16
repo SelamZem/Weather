@@ -1,0 +1,4 @@
+city|temperature_celsius
+London|8.7
+New York|8.2
+Tokyo|6.8
