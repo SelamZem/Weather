@@ -30,7 +30,7 @@ outputs\transformed_weather_data.csv
 
 ## Project Approach and Challenges
 ### Approach
-[Weather Data Exploration and - Google Colab](https://colab.research.google.com/drive/1PFLOKDjUE8xqPGqheCPE5t5jnb4xbuoo#scrollTo=msWyoi4qjbFS)
+[Weather Data Exploration and - Google Colab](https://colab.research.google.com/drive/1PFLOKDjUE8xqPGqheCPE5t5jnb4xbuoo?usp=sharing)
 
 ### Challenges
 Pandas Warning: Used .copy() and .loc[] to avoid SettingWithCopyWarning during data transformations.
