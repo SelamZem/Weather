@@ -14,7 +14,8 @@ This project is a data pipeline that ingests raw weather data, performs cleaning
 ### Clone the repository
 
 git clone https://github.com/SelamZem/Weather.git
-cd weather-pipeline
+
+cd Weather
 ### Create and activate a virtual environment
 python -m venv .venv
 .venv\Scripts\activate
