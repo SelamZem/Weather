@@ -22,8 +22,6 @@ python -m venv .venv
 .venv\Scripts\activate
 ### Install dependencies
 pip install -r requirements.txt
-### Add your data
-Place your raw weather CSV file in the data\ directory. 
 ### Run the pipeline
 python main.py
 ### Check the output
